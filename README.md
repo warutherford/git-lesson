@@ -4,6 +4,6 @@
 
 Team: Austin Rutherford, Alana Muller
 
-Best local fauna: gecko
+Best local fauna: Kangaroo Rat
 
 A sample repository for learning Git with RStudio
